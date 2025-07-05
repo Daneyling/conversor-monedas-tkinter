@@ -37,7 +37,7 @@ def convert_currency():
 
 # Crear ventana
 root = tk.Tk()
-root.title("Conversor de Monedas Colorido")
+root.title("Conversor de Monedas Daneyling y Miguel")
 root.geometry("400x430")
 root.configure(bg=BG_COLOR)
 
