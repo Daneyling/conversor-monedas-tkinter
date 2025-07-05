@@ -35,14 +35,3 @@ Este es un "conversor de monedas con diseño moderno y desarrollado" en "Python"
 
 - Python
 - Biblioteca gráfica: Tkinter (incluida por defecto en Python)
-
----
-
- # Cómo ejecutar el proyecto
- 
-1. Asegúrate de tener Python instalado.
-2. Descarga o clona este repositorio.
-3. Ejecuta el archivo:
-
-```bash
-python conversor_colores.py
